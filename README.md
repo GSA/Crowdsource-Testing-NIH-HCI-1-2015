@@ -31,12 +31,13 @@ This folder has all the project artifacts
 
 === Test Cycle Questionnaire ===
 
-https://docs.google.com/document/d/1kQQpN26fmcf7_YJ5Fsj6ZJjB4Fou8hVZ-MsS_A26yhU/edit
+https://github.com/GSA/Crowdsource-Testing-NIH-HCI-1-2015/wiki/NIH-NCI-1-2015-Test-Cycle-Questionnaire
 
 or
 
-XXXXXXXXXXXXXXXXXX (On the Google Drive) This document contains all of the applications specifics required to complete this 
-test cycle.
+https://docs.google.com/document/d/1kQQpN26fmcf7_YJ5Fsj6ZJjB4Fou8hVZ-MsS_A26yhU/edit (On the Google Drive) 
+
+This document contains all of the applications specifics required to complete this test cycle.
 
 === NIH-HCI-1/2015 Test Case 1/2015 ===
 
