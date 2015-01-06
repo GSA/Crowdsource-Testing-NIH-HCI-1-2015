@@ -23,9 +23,15 @@ https://www.digitalgov.gov/2013/11/21/mobile-product-compatibility-and-functiona
 
 This document gives some terms and insights into testing mobile applications.
 
+=== The project artifact folder ===
+
+https://drive.google.com/#folders/0B2idn27Mp7VTVnF1TDNrMndQR0U
+
+This folder has all the project artifacts
+
 === Test Cycle Questionnaire ===
 
-XXXXXXXXXXXXXXXXXXX
+https://docs.google.com/document/d/1kQQpN26fmcf7_YJ5Fsj6ZJjB4Fou8hVZ-MsS_A26yhU/edit
 
 or
 
