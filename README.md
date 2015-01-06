@@ -19,8 +19,9 @@ If that is the case send me a mail and I will send you the documents.
 
 === Mobile Product Compatibility and Functional Testing 101 ===
 
-https://www.digitalgov.gov/2013/11/21/mobile-product-compatibility-and-functional-testing-101/This document gives some terms 
-and insights into testing mobile applications.
+https://www.digitalgov.gov/2013/11/21/mobile-product-compatibility-and-functional-testing-101/
+
+This document gives some terms and insights into testing mobile applications.
 
 === Test Cycle Questionnaire ===
 
