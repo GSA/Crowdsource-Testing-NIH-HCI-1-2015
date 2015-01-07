@@ -45,7 +45,7 @@ https://docs.google.com/spreadsheets/d/1Babvqt8Rz6X87Gulj8kufSFBFu1EpdizQQZK_7px
 
 or
 
-XXXXXXXXXXXXXXXX
+https://github.com/GSA/Crowdsource-Testing-NIH-HCI-1-2015/blob/master/Test_Case_NIH_Cancer_Trends_1_2_2015.xls
 
 This is the test case that you are to download, complete and email back to us.
 
